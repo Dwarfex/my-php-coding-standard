@@ -1,0 +1,14 @@
+{
+    "name": "spaceemotion/my-php-coding-standard",
+    "type": "library",
+    "description": "",
+    "authors": [
+        {
+            "name": "spaceemotion",
+            "email": "hello@spaceemotion.net"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    }
+}
