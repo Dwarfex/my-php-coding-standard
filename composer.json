@@ -9,6 +9,7 @@
         }
     ],
     "require": {
-        "php": "^7.4"
+        "php": "^7.4",
+        "ergebnis/composer-normalize": "^2.4"
     }
 }
